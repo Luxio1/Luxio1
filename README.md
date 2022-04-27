@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Patryk
+- 👀 I’m passionate about creating mobile apps especially in Flutter Framework
+- 🌱 I'm interested in medical, dieting and bodybuilding stuff too.
